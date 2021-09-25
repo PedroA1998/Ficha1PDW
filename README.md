@@ -1,5 +1,4 @@
 ## Table of contents
-
 * [General info](##general-info)
 * [Technologies](##technologies)
 * [Setup](##setup)
@@ -16,7 +15,7 @@ Project is created with:
 ## Setup
 
 To run this project, install it locally using npm:
-
+<br>
 $ cd ../lorem <br>
 $ npm install <br>
 $ npm start
