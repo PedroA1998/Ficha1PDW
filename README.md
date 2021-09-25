@@ -3,7 +3,7 @@
 * [Technologies](##technologies)
 * [Setup](##setup)
 ## General info
-This project is simple Lorem ipsum dolor generator
+This project is simple Lorem ipsum dolor generator.
 ## Technologies
 Project is created with:
 * Lorem version: 12.3
@@ -13,7 +13,5 @@ Project is created with:
 To run this project, install it locally using npm:
 
 $ cd ../lorem
-
 $ npm install
-
 $ npm start
