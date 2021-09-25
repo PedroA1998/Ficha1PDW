@@ -10,6 +10,9 @@ Project is created with:
 * Ipsum version: 2.33
 * Ament library version: 999
 ## Setup
+
 $ cd ../lorem
+
 $ npm install
+
 $ npm start
